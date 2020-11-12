@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\ÖMER\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(27,29): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\ÖMER\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(81,15): warning C4309: '=': sabit değer kesildi
+C:\Users\ÖMER\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(82,28): warning C4309: '=': sabit değer kesildi
+C:\Users\ÖMER\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(88,26): warning C4309: '=': sabit değer kesildi
+C:\Users\ÖMER\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(89,17): warning C4309: '=': sabit değer kesildi
+  ConsoleApplication2.vcxproj -> C:\Users\ÖMER\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
